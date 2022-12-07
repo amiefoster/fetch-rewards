@@ -36,6 +36,9 @@ This project is a form that users can fill out and submit. Consisting of:
 
 # Getting started
 
+## Setup 
+In your terminal, clone this repository & navigate to it. 
+
 ## Install Dependencies
 
 From the projects root directory run
@@ -52,7 +55,7 @@ This will run the app in the development mode. Open [http://localhost:3000](http
 
 ## Running tests
 
-To open the test suite the tests you can run 
+To open the test suite you can run 
 
 ### `npm test`
 This will launch the test runner in the interactive watch mode.
