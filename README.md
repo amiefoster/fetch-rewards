@@ -1,8 +1,17 @@
 # Fetch Rewards Take-Home Exercise
 
-<!-- ## Deployed Version
+## Deployed Version
 
-[Fetch Rewards FE Take Home](https://fetch-rewards-amiefoster.vercel.app/) -->
+[Fetch Rewards Take Home](https://fetch-project.vercel.app/)
+
+## Project Summary
+This project is a form that users can fill out and submit. Consisting of:
+- Form with input fields for; name, email, password, occupation, and state
+- Validation to verify all fields are filled out
+- Additional validation to make sure a valid email was used
+- Success page that is displayed to the user upon successful submission
+- Error page that is displayed to the user upon unsuccessful submission
+
 
 ## Minimum Requirements
 - [x] Display a form with inputs for each field outlined above
@@ -50,4 +59,4 @@ This will launch the test runner in the interactive watch mode.
 
 # What next?
 
-Given more time, I would write more thurough tests to cover more test cases.
+Given more time, I would add more test cases.
